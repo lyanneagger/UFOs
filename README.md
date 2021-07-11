@@ -1,21 +1,21 @@
-# UFO Sighting Data
+# UFO Sightings
 
 ## Overview
-### Filtering Data
+### UFO Data Site
 
 This analysis uses JavaScript, html, bootstrap, and CSS to create a visually appealing site that will display data of UFO sightings. The script was built to filter by date, city, state, country, and/or shape of the UFO.
 
 ## Results
 ### Filtering the Data
 
-When the page is first loaded, it brings up the entire data table, unfiltered, with five filter criteria boxes available for user input (as pictured below). Each box contains a placeholder to show what kind of information should be entered and in what format.
-![Alt Text](https://github.com/lyanneagger/UFOs/blob/main/static/images/all.png)</br>
+When the page is first loaded, it brings up the entire data table, unfiltered, with five filter criteria boxes available for user input (as pictured below). Each box contains a placeholder to show what kind of information should be entered and in what format.</br>
+![Alt Text](https://github.com/lyanneagger/UFOs/blob/main/static/images/all.png)</br></br>
 
-To filter by only one criteria, the user would enter that into the appropriate box. In the example image below, "1/10/2010" was entered into the date box. This filter reduces the original dataset down to only 11 entries.
-![Alt Text](https://github.com/lyanneagger/UFOs/blob/main/static/images/jan10.png)</br>
+To filter by only one criteria, the user would enter that into the appropriate box. In the example image below, "1/10/2010" was entered into the date box. This filter reduces the original dataset down to only 11 entries.</br>
+![Alt Text](https://github.com/lyanneagger/UFOs/blob/main/static/images/jan10.png)</br></br>
 
-Additional filters can be combined by entering them in succession. Using the January 10, 2010 data group, another filter is applied for the state of California. Entering "ca" into the state filter box returns the following two results.
-![Alt Text](https://github.com/lyanneagger/UFOs/blob/main/static/images/jan10ca.png)</br>
+Additional filters can be combined by entering them in succession. Using the January 10, 2010 data group, another filter is applied for the state of California. Entering "ca" into the state filter box returns the following two results.</br>
+![Alt Text](https://github.com/lyanneagger/UFOs/blob/main/static/images/jan10ca.png)</br></br>
 
 The filters can be reset either by deleting them in the input boxes or by clicking the "UFO Sightings" link in the nav bar on the top left of the page, and the entire dataset will be available for viewing again.
 
